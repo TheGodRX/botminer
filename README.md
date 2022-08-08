@@ -4,6 +4,8 @@ crypto-webminer.com
 https://www.moneroocean.crypto-webminer.com/moneroocean.html
 https://moneroocean.stream/?#/dashboard
 
+- 43u95uFKmgqYsT2fgtJykrcHSmC4MLAqxEE4jY2XZGJeAg5W3sD2AhTR4SCVSJmGRqRQdGhudvbJmd2TuWmthHt2ER5jPXc 
+
 
 # botminer
 A rapid install and run git for botnet zombie crypto mining. 
